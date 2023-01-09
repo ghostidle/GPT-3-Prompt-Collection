@@ -17,9 +17,9 @@ Please note this is a W.I.P and will be updated as more information comes in.
   <tr>
     <td>Write</td>
     <td>
-        <li>Copywriting</li>
-        <li>Blog posts</li>
-        <li>Product descriptions</li>
+        <li><a href='#CopyWriting'>Copywriting</a></li>
+        <li><a href='#Blogging'>Blogging</li>
+        <li><a href='#SEO'>SEO</li>
         <li>Question generation</li>
     </td>
     <td>
@@ -32,7 +32,17 @@ Please note this is a W.I.P and will be updated as more information comes in.
 </tbody>
 </table>
 
+# CopyWriting
 
+W.I.P
+
+# Blogging
+
+W.I.P
+
+# SEO
+
+W.I.P
 
 # Socials
 
