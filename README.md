@@ -20,10 +20,8 @@ Please note this is a W.I.P and will be updated as more information comes in.
         <li><a href='#Copywriting'>Copywriting</a></li>
         <li><a href='#Blogging'>Blogging</li>
         <li><a href='#SEO'>SEO</li>
-        <li>Question generation</li>
     </td>
     <td>
-        <li>Examples</li>
         <li>Examples</li>
         <li>Examples</li>
         <li>Examples</li>
