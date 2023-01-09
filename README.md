@@ -3,7 +3,7 @@ This is a collection of prompts for GPT-3 these can bused with CHAT GPT.
 
 # Section:
 
-
+WIP
 
 #Socials
 
