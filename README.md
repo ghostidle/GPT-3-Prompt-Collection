@@ -17,22 +17,22 @@ Please note this is a W.I.P and will be updated as more information comes in.
   <tr>
     <td>Write</td>
     <td>
-        <li><a href='#CopyWriting'>Copywriting</a></li>
+        <li><a href='#Copywriting'>Copywriting</a></li>
         <li><a href='#Blogging'>Blogging</li>
         <li><a href='#SEO'>SEO</li>
         <li>Question generation</li>
     </td>
     <td>
-        <li>Examples</a></li>
-        <li>Examples</a></li>
-        <li>Examples</a></li>
-        <li><a href='#socials'>Examples</a></li>
+        <li>Examples</li>
+        <li>Examples</li>
+        <li>Examples</li>
+        <li>Examples</li>
     </td>
   </tr>
 </tbody>
 </table>
 
-# CopyWriting
+# Copywriting
 
 W.I.P
 
