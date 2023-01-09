@@ -1,11 +1,13 @@
 # Ghost Idle Promopt list for GPT-3
-This is a collection of prompts for GPT-3 these can bused with CHAT GPT.
+This is a collection of prompts for GPT-3 these can also be used with CHAT GPT.
+
+Please note this is a W.I.P and will be updated as more information comes in.
 
 # Section:
 
-WIP
 
-#Socials
+
+# Socials
 
    You can follow me on Tiktok, Youtube and Twitter
 
